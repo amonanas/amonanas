@@ -1,4 +1,4 @@
-### Iniciando na programação a partir do JavaScript 💪🤓
+### Iniciando no mundo da programação a partir do JavaScript 💪🤓
 
 <!--
 **amonanas/amonanas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
